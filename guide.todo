@@ -1,0 +1,6 @@
+Guide - Server:
+    [ ] Pipe - validate data contained in the request
+    [ ] Guard - make sure the user is authenticated
+    [ ] Controller - Route the request to a particular function
+    [ ] Service - Run some business logic
+    [ ] Repository - Access a database
